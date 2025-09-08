@@ -1,0 +1,4 @@
+4. If you can't access the repository, let's check your remote:
+bash
+origin  https://github.com/abdullahakhlaque/test-py-repo.git (fetch)
+origin  https://github.com/abdullahakhlaque/test-py-repo.git (push)
